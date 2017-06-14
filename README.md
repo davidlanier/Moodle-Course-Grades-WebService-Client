@@ -1,2 +1,2 @@
 # Moodle-Course-Grades-WebService-Client
-Client for making calls to new Moodle Webservice function get_course_users_grade
+Client example script for making calls to New Moodle Webservice function get_course_users_grade
